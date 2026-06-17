@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\bin\Debug\Coruier-Project.exe.config
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\bin\Debug\Coruier-Project.exe
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\bin\Debug\Coruier-Project.pdb
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\obj\Debug\Coruier-Project.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\obj\Debug\Coruier_Project.Properties.Resources.resources
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\obj\Debug\Coruier-Project.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\obj\Debug\Coruier-Project.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\obj\Debug\Coruier-.C2E9834E.Up2Date
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\obj\Debug\Coruier-Project.exe
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\obj\Debug\Coruier-Project.pdb
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\obj\Debug\Coruier_Project.Migrations.Migration1.resources
+C:\Users\PC\Documents\Coding\Coruier-Project\Coruier-Project\obj\Debug\Coruier_Project.Form1.resources
